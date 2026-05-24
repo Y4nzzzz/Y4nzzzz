@@ -1,5 +1,5 @@
-#Hi, I'm Yana!
-##💫 About Me:
+# Hi, I'm Yana!
+## 💫 About Me:
 Hi, I'm Yana!<br>I'm a Informatics student who loves creating applications!<br>Currently learning: implementing code design patterns and software architecture.<br><br>
 
 
